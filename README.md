@@ -33,29 +33,29 @@ To run the project, follow these steps:
 
 ### Gender
 
-We analyzed the gender distribution in the dataset using a bar plot and a pie chart. The results showed that the percentage of females is 56%, while the percentage of males is 44% [[1](URL)].
+We analyzed the gender distribution in the dataset using a bar plot and a pie chart. The results showed that the percentage of females is 56%, while the percentage of males is 44% .
 
 ### Age
 
-The age feature was analyzed using a histogram and a box plot. The majority of customers fall within the age range of 30-35. The minimum age is 18, and the maximum age is 70 [[2](URL)].
+The age feature was analyzed using a histogram and a box plot. The majority of customers fall within the age range of 30-35. The minimum age is 18, and the maximum age is 70 .
 
 ### Annual Income
 
-The annual income feature was explored using a histogram and a density plot. The distribution of annual income appears to be normal, with a peak around an average income of 70. The minimum income is 15, and the maximum income is 137 [[3](URL)].
+The annual income feature was explored using a histogram and a density plot. The distribution of annual income appears to be normal, with a peak around an average income of 70. The minimum income is 15, and the maximum income is 137 .
 
 ### Spending Score
 
-The spending score feature was analyzed using a box plot and a distribution plot. The majority of customers have a spending score between 40 and 50 [[4](URL)].
+The spending score feature was analyzed using a box plot and a distribution plot. The majority of customers have a spending score between 40 and 50 .
 
 ### K-means Clustering
 
-We applied the K-means clustering algorithm to segment the customers based on their features. The optimal number of clusters was determined to be 6 using the average silhouette width method [[5](URL)]. The clustering results were visualized using PCA with 2 components. The clusters were labeled as follows:
+We applied the K-means clustering algorithm to segment the customers based on their features. The optimal number of clusters was determined to be 6 using the average silhouette width method . The clustering results were visualized using PCA with 2 components. The clusters were labeled as follows:
 
 - Cluster 0 and 5: Customers with medium PCA2 and high PCA1.
 - Cluster 1: Customers with high PCA2 and low PCA1.
 - Cluster 2: Customers with medium PCA1 and medium PCA2.
 - Cluster 3: Customers with high PCA2 and medium annual income.
-- Cluster 4: Customers with medium PCA1 and low PCA2 [[6](URL)].
+- Cluster 4: Customers with medium PCA1 and low PCA2 .
 
 ## Conclusion
 
