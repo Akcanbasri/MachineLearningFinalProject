@@ -67,11 +67,3 @@ Please note that the code and analysis provided in this README file are based on
 
 If you have any further questions or need assistance, feel free to reach out.
 
-[1]: [Gender distribution analysis](URL)
-
-
-[2]: [Age analysis](URL)
-[3]: [Annual income analysis](URL)
-[4]: [Spending score analysis](URL)
-[5]: [Average silhouette method](URL)
-[6]: [Clustering visualization](URL)
